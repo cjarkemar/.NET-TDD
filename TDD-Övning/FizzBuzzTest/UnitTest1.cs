@@ -1,3 +1,5 @@
+using FizzBuzz;
+
 namespace FizzBuzzTest
 {
     public class Tests
@@ -5,12 +7,38 @@ namespace FizzBuzzTest
         [SetUp]
         public void Setup()
         {
+            
         }
 
         [Test]
-        public void Test1()
+        public void TalDelbartmed3()
         {
-            Assert.Pass();
+            //arrange
+            int nummer = 9;
+
+            //act
+            string result = Kalkylator.FizzBuzzKalkyl(nummer);
+
+            //assert
+
+            Assert.That(result, Is.EqualTo("FIZZ"));
+        }
+
+        [Test]
+        public void TalEjDelbartmed3()
+        {
+            //arrange
+            int nummer = 7;
+
+            //act
+
+            string result = Kalkylator.FizzBuzzKalkyl(nummer);
+
+            //assert
+            Assert.That(result, Is.EqualTo("7"));
+
+
+
         }
     }
 }

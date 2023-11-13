@@ -1,0 +1,11 @@
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll

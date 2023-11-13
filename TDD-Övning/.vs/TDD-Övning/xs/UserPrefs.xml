@@ -1,3 +1,26 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{FB3EE80C-01CC-4AB5-8179-D39F79488C28}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzz/FizzBuzz.cs">
+    <Files>
+      <File FileName="FizzBuzz/FizzBuzz.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TDD-Övning" expanded="True">
+            <Node name="FizzBuzz">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="FizzBuzz.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

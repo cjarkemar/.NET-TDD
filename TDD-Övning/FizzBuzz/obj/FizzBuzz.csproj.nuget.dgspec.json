@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Panda\\Desktop\\tdd\\.NET-TDD\\TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {}
+    "/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Panda\\Desktop\\tdd\\.NET-TDD\\TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {
+    "/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Panda\\Desktop\\tdd\\.NET-TDD\\TDD-Övning\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\Panda\\Desktop\\tdd\\.NET-TDD\\TDD-Övning\\FizzBuzz\\FizzBuzz.csproj",
-        "packagesPath": "C:\\Users\\Panda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Panda\\Desktop\\tdd\\.NET-TDD\\TDD-Övning\\FizzBuzz\\obj\\",
+        "projectPath": "/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/FizzBuzz.csproj",
+        "packagesPath": "/Users/cj/.nuget/packages/",
+        "outputPath": "/Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Panda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/cj/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
