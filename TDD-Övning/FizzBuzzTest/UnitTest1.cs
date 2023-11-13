@@ -42,5 +42,56 @@ namespace FizzBuzzTest
 
 
         }
+
+        [Test]
+        public void TalDelbartmed5()
+        {
+            //arrange
+            int nummer = 10;
+
+            //act
+
+            string result = Kalkylator.FizzBuzzKalkyl(nummer);
+
+            //assert
+            Assert.That(result, Is.EqualTo("BUZZ"));
+
+
+
+        }
+
+        [Test]
+        public void TalEjDelbartmed5()
+        {
+            //arrange
+            int nummer = 11;
+
+            //act
+
+            string result = Kalkylator.FizzBuzzKalkyl(nummer);
+
+            //assert
+            Assert.That(result, Is.EqualTo("11"));
+
+          
+
+        }
+
+        [Test]
+        public void TalDelbartmed5Och3()
+        {
+            //arrange
+            int nummer = 15;
+
+            //act
+
+            string result = Kalkylator.FizzBuzzKalkyl(nummer);
+
+            //assert
+            Assert.That(result, Is.EqualTo("FIZZBUZZ"));
+
+
+
+        }
     }
 }
