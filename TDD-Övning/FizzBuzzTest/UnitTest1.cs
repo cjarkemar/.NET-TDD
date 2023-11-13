@@ -1,4 +1,6 @@
+
 using FizzBuzz;
+
 
 namespace FizzBuzzTest
 {
@@ -35,7 +37,7 @@ namespace FizzBuzzTest
             string result = Kalkylator.FizzBuzzKalkyl(nummer);
 
             //assert
-            Assert.AreEqual(result);
+            Assert.That(result, Is.EqualTo("7"));
 
 
 

@@ -9,3 +9,15 @@
 /Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
 /Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
 /Users/cj/Projects/TDD-Övning/TDD-Övning/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+C:\Users\Panda\Desktop\tdd\.NET-TDD\TDD-Övning\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
