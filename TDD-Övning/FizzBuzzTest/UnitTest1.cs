@@ -35,7 +35,7 @@ namespace FizzBuzzTest
             string result = Kalkylator.FizzBuzzKalkyl(nummer);
 
             //assert
-            Assert.That(result, Is.EqualTo("7"));
+            Assert.AreEqual(result);
 
 
 
