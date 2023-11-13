@@ -93,5 +93,26 @@ namespace FizzBuzzTest
 
 
         }
+
+        [Test]
+        public void TestFizzBuzzOutput()
+        {
+            // Arrange
+            int testNumber = 15; 
+            string expectedOutput = "FIZZBUZZ";
+
+            
+            using (StringWriter sw = new StringWriter())
+            {
+                Console.SetOut(sw);
+
+                // Act
+                FizzBuzz.Kalkylator.FizzBuzzOutput(testNumber);
+
+                // Assert
+                string actualOutput = sw.ToString().Trim(); 
+                Assert.AreEqual(expectedOutput, actualOutput);
+            }
+        }
     }
 }

@@ -13,5 +13,12 @@
 
            
         }
+
+        public static void FizzBuzzOutput(int nummer)
+        {
+            string result = FizzBuzzKalkyl(nummer);
+            Console.WriteLine(result);
+          
+        }
     }
 }
